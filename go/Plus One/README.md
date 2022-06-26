@@ -31,3 +31,7 @@ Thus, the result should be \[1,0\].
 *   `1 <= digits.length <= 100`
 *   `0 <= digits[i] <= 9`
 *   `digits` does not contain any leading `0`'s.
+
+**Reference:**
+
+https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/559/
